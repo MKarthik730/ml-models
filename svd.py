@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
-
+#add the image name
 img=Image.open(r"butterfly.jpg").convert("L")
 original=np.array(img,dtype=float)
 k_values=[10,50,100,200]
@@ -22,4 +22,5 @@ for i, k in enumerate(k_values, start=2):
     plt.title(f"k = {k}")
     plt.axis("off")
 plt.show()
+
 print("done")
