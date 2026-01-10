@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">Building a heart disease predicter</h3>
+<h3 align="center">Heart Disease Predictor using Machine Learning
+Predicts risk of heart disease using logistic regression and random forest.</h3>
 
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=mkarthik730&label=Profile%20views&color=0e75b6&style=flat">
