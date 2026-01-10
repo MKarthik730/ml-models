@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">Building real-world ML models and production-grade FastAPI backends from end to end.</h3>
+<h3 align="center">Building a heart disease predicter</h3>
 
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=mkarthik730&label=Profile%20views&color=0e75b6&style=flat">
