@@ -58,6 +58,16 @@ desktop.ini
 
 # ML Models (large files)
 # *.h5
+
+# Secrets and credentials
+text.py
+datafile.txt
+*.key
+*.pem
+secrets.json
+credentials.json
+OPEN_API_KEY
+*.token
 # *.pkl
 # *.joblib
 # *.onnx
